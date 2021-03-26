@@ -1,4 +1,4 @@
-public class TheMotivator {
+public class TheGradeMotivator {
 	public void feedback(int score) {
 		if (score == 100)
 			System.out.println("You're awesome");
@@ -10,7 +10,7 @@ public class TheMotivator {
 			System.out.println("Well, what can I say?");
 	}
 	public static void main(String[] args) {
-		TheMotivator tm = new TheMotivator();
+		TheGradeMotivator tm = new TheGradeMotivator();
 		tm.feedback(60);
 	}
 }
