@@ -11,6 +11,7 @@ public class TheGradeMotivator {
 	}
 	public void grade() {
 		System.out.println("How are those grades going?");
+		System.out.println("you are going to do great!");
 	}
 	public static void main(String[] args) {
 		TheGradeMotivator tm = new TheGradeMotivator();
