@@ -9,8 +9,12 @@ public class TheGradeMotivator {
 		else
 			System.out.println("Well, what can I say?");
 	}
+	public void grade() {
+		System.out.println("How are those grades going?");
+	}
 	public static void main(String[] args) {
 		TheGradeMotivator tm = new TheGradeMotivator();
 		tm.feedback(60);
+		tm.grade();
 	}
 }
