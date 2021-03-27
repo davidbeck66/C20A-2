@@ -1,2 +1,18 @@
+*   fixed conflict
+|\  
+| * added grade funct
+* | changed grade
+* | message change
+|/  
+*   changed message
+|\  
+| * removed initial txt
+| * added some motivation for the student in grades
+| * added grades
+* | changed message for < 60
+|/  
+* refactord name of class
+* refactored class name to the grade motivator
+* created log
 * first commit
 * First Commit
