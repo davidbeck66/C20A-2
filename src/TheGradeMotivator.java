@@ -14,7 +14,7 @@ public class TheGradeMotivator {
 	}
 	public static void main(String[] args) {
 		TheGradeMotivator tm = new TheGradeMotivator();
-		tm.feedback(60);
+		tm.feedback(62);
 		tm.grade();
 	}
 }
